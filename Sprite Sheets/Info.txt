@@ -1,0 +1,1 @@
+The game looks for sprite files in a "Sprites" folder within the game's "root" folder (the one with the .exe file). If you are building the game yourself, put sprites there.
